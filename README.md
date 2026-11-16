@@ -1,6 +1,6 @@
 # afpool: Open-Set Radio-Frequency Identification of Individual Drones by Acquisition-Factor Pooling
 
-This repository holds the core implementation of the paper *Open-Set Radio-Frequency Identification of Individual Drones by Acquisition-Factor Pooling* (under review).
+This repository holds the core implementation of the paper *Open-Set Radio-Frequency Identification of Individual Drones by Acquisition-Factor Pooling* by Xinbin Zhang, Zhengran He, Tiantian Tang, and Guan Gui (School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications), under review.
 
 The system works on one pool built from several public drone and WiFi RF datasets, and reads no band, dataset, or receiver label at inference. It:
 
@@ -94,7 +94,18 @@ The complete code will be released here after the paper's review. It includes:
 
 ## Citation
 
-The citation will be added after the review.
+If you use this code, please cite the paper:
+
+```bibtex
+@unpublished{zhang2026afpool,
+  author = {Xinbin Zhang and Zhengran He and Tiantian Tang and Guan Gui},
+  title  = {Open-Set Radio-Frequency Identification of Individual Drones by Acquisition-Factor Pooling},
+  note   = {Manuscript under review},
+  year   = {2026}
+}
+```
+
+The entry will be updated with the publication details after acceptance.
 
 ## License
 
